@@ -1,0 +1,4 @@
+db,avg_latency_ms,median_latency_ms,p95_latency_ms,peak_ram_mb,avg_result_count,num_queries,avg_overlap_faiss_milvus,avg_overlap_faiss_qdrant,avg_overlap_milvus_qdrant,avg_consensus_at_k
+faiss,61.64,60.33,69.73,0.72,3.65,102,3.8,0.25,0.32,0.25
+milvus,10356.98,4740.81,61021.11,0.72,4.95,102,3.8,0.25,0.32,0.25
+qdrant,2815.22,2944.74,3536.09,0.72,0.29,102,3.8,0.25,0.32,0.25

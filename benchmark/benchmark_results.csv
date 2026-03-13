@@ -1,0 +1,307 @@
+query,db,latency_ms,ram_mb,result_count,ids
+[,faiss,133.58,0.0,5,110273|484001|114892|114901|135829
+"""büyük havza mill parkı"",",faiss,76.19,0.72,5,331846|1481350|1179976|458186|1520429
+"""avrupa basketbol şampiyonası takım arasında luk"",",faiss,76.04,0.0,5,492050|527764|1651508|1251485|1434558
+"""richard d jamesin bilinen diskografisi"",",faiss,66.18,0.0,5,232703|767621|419567|672954|1885951
+"""aligncenter colspan adaylk"",",faiss,65.07,0.0,0,
+"""en iyi spor programı spor servisi"",",faiss,61.45,0.0,5,1165153|1165221|1165255|1165200|1165238
+"""turizm yılında ülke ekonomisine yaklaşık milyon gelir getirmiştir"",",faiss,66.75,0.0,5,1942337|402050|1872419|467098|1591519
+"""pınarbaşı kayserinin ilçesinden birisidir"",",faiss,63.9,0.0,0,
+"""avn ödüllerigrup sekste sahne yıldızı"",",faiss,69.74,0.0,5,1672514|257092|1802485|803417|2001310
+"""şampiyona stadda oynandı"",",faiss,60.49,0.0,4,1870329|1870323|1870325|1870326
+"""yazında beşiktaş integral forex ile yıllık sözleşme imzaladı"",",faiss,61.52,0.0,5,1819264|332385|1802177|620835|1491820
+"""nüfusu insan sayımlarına göre"",",faiss,62.11,0.0,5,1081704|1245292|872018|812020|1440825
+"""çamköy tokat ilinin almus ilçesine bağlı bir köydür"",",faiss,62.57,0.0,5,389410|210570|313909|1135321|575357
+"""sakarya il merkezine km akyazı ilçesine km uzaklıktadır"",",faiss,64.34,0.0,5,485934|166580|1433718|384923|216572
+"""velma springstead kupası"",",faiss,60.91,0.0,2,1860362|1860365
+"""ege aşağıdaki anlamlara gelebilir"",",faiss,64.39,0.0,5,1394116|1394123|326667|1394125|863582
+"""apollonios mö yüzyıl antik yunanistanda yaşamış bir heykeltıraş"",",faiss,67.8,0.0,5,714368|1598883|210570|1719053|368693
+"""kocaeli il merkezine km gölcük ilçesine km uzaklıktadır"",",faiss,58.48,0.0,5,656321|792563|789300|384923|793727
+"""mliqli azerbaycanın yardımlı rayonunda bir köy"",",faiss,62.84,0.0,5,353258|574635|353260|353262|353276
+"""aligncenter colspan toplam"",",faiss,65.66,0.0,3,1493935|1493943|1565895
+"""aligncenter colspan katılım oranı"",",faiss,66.78,0.0,1,1742178
+"""kluane wrangellst elias glacier bay tatshenshinialsek"",",faiss,70.76,0.0,5,548929|547969|1755410|1551508|1720023
+"""aligncenter colspan geçersiz ya da boş"",",faiss,65.39,0.0,0,
+"""aligncenter colspan katılım oranı"",",faiss,60.32,0.0,1,1742178
+"""aligncenter colspan katılım oranı"",",faiss,60.89,0.0,1,1742178
+"""bülent karaköse tunceli karikatürist yazar"",",faiss,65.55,0.0,4,1019929|1167299|1002085|1466222
+"""aligncenter colspan adaylk"",",faiss,57.04,0.0,0,
+"""monterey park kaliforniya"",",faiss,64.72,0.0,5,811492|811470|1017455|900881|670909
+"""final temmuzda saat te yapıldı"",",faiss,64.27,0.0,4,491225|491226|817398|671793
+"""meredith yılında vejetaryen yılında ise vegan olmuştur"",",faiss,60.55,0.0,5,281483|1235084|1505712|965780|2025689
+"""uluslararası sosyal güvenlik teşkilatı"",",faiss,63.78,0.0,5,637766|571688|571324|514708|571132
+"""coupe de france"",",faiss,64.69,0.0,5,647392|272401|1610871|1492123|769118
+"""alzey almanyanın renanyapalatina eyaletinde yer alan bir şehirdir"",",faiss,64.38,0.0,5,1171585|930434|1931524|731428|712860
+"""aligncenter evre oyu"",",faiss,64.17,0.0,0,
+"""hallaç afyon ilinin şuhut ilçesine bağlı bir köydür"",",faiss,57.19,0.0,5,975395|767946|210570|1157877|472825
+"""castellammare di stabia komünü şu komünlerle sınır komşusudur"",",faiss,65.53,0.0,2,952642|605509
+"""the last tycoon son patron"",",faiss,57.31,0.0,5,1524004|412599|1481370|1943965|650399
+"""çıktı gönül arşına"",",faiss,57.57,0.0,0,
+"""ahi evranspor isim değişikliğine giderek kırşehirspor adını aldı"",",faiss,64.45,0.0,5,308006|1776200|729513|850065|1192789
+"""aligncenter colspan adaylk"",",faiss,56.81,0.0,0,
+"""ağrı iline km doğubayazıt ilçesine km uzaklıktadır"",",faiss,55.7,0.0,5,385952|792563|789300|384923|793727
+"""türkiye senato seçimleri"",",faiss,59.7,0.0,0,
+"""vorarlberg eyalet seimleri"",",faiss,60.33,0.0,0,
+"""ekim genel seçimleri balıkesir ili sonuçları"",",faiss,60.21,0.0,5,1082023|1014865|1357015|1668254|398046
+"""dırburada kronecker delta dır"",",faiss,60.48,0.0,5,518212|1922694|317102|886036|1778267
+"""serkan şirin d temmuz ordu türk futbolcudur"",",faiss,58.95,0.0,5,1800932|251022|593520|368694|970076
+"""kano pillars fc"",",faiss,58.86,0.0,0,
+"""tanımlanmış tanınmış alt tür vardır"",",faiss,57.4,0.0,5,1684172|797228|682896|1981303|1877117
+"""seza kutlar aksoy"",",faiss,59.01,0.0,0,
+"""kastamonu iline km tosya ilçesine km uzaklıktadır"",",faiss,55.77,0.0,5,1330405|1322728|789300|384923|793727
+"""manisa iline km gördes ilçesine km uzaklıktadır"",",faiss,54.96,0.0,5,385952|792563|789300|384923|793727
+"""yılın en başarılı sahne müziği"",",faiss,65.06,0.0,5,402050|260462|536755|467095|1401049
+"""sia toplamda drt kez aday oldu"",",faiss,54.21,0.0,5,1081696|1119429|930438|1119410|1524509
+"""aligncenter oy sayısı"",",faiss,56.65,0.0,5,1252705|802478|217973|217981|1396478
+"""şeyhgüven samsun ilinin çarşamba ilçesine bağlı bir mahalledir"",",faiss,57.05,0.0,5,800487|210570|1719053|506671|385206
+"""kızılderililerin nasıl adlandırılması gerektiği hl tartışma konusudur"",",faiss,57.49,0.0,5,1800384|1982082|1638723|572463|682362
+"""normal kaynama noktası f"",",faiss,60.02,0.0,0,
+"""wir danken dir gott wir danken dir bwv"",",faiss,55.06,0.0,5,1351464|885609|885867|885743|885679
+"""bademli dikilinin güneybatısında bir mahalledir"",",faiss,66.77,0.0,5,1073827|1374308|363370|1719053|398580
+"""aligncenter colspan katılım oranı"",",faiss,69.69,0.0,1,1742178
+"""yıllara göre mahalle nüfus verileri yılında kişidir"",",faiss,54.23,0.0,5,789857|790084|717354|1251485|1591519
+"""hd dvd official website"",",faiss,49.26,0.0,5,1522211|787785|868553|483440|1163218
+"""işlem tensör büzülmesi için bir toplam ile vurgulaniyor"",",faiss,58.64,0.0,5,714368|798957|1719053|437135|393464
+"""profesyonel kariyerine yılında yokohama marinos kulübünde başladı"",",faiss,64.67,0.0,5,1823942|294574|1275887|1253112|1933403
+"""slebiarais bakare slebiarais s slebiarais s"",",faiss,57.83,0.0,0,
+"""aligncenter oy oran"",",faiss,58.11,0.0,0,
+"""binya anlam ayrımı"",",faiss,59.26,0.0,5,1792008|1060073|1334025|1125720|958045
+"""ntv tarafından yayınlanan programların listesi"",",faiss,56.77,0.0,5,1163552|1281409|1672564|334262|1513918
+"""everybody wants some"",",faiss,57.67,0.0,1,1943928
+"""william jackson harper"",",faiss,55.27,0.0,5,1731235|173093|1693487|1149488|1149493
+"""kastamonu iline km cide ilçesine km uzaklıktadır"",",faiss,62.8,0.0,5,385952|792563|789300|384923|793727
+"""yugoslavya uefa afc kıtalararası playoffa yükseldi"",",faiss,63.18,0.0,5,1339938|1702284|1098223|671699|1521309
+"""southeast european times"",",faiss,58.53,0.0,0,
+"""yılları arası valensiya tayfa emirliği vassalı kalmıştır"",",faiss,67.34,0.0,5,1324261|629068|229755|1260187|1680991
+"""fizyolojitıp nobel ödülü sayfası"",",faiss,65.5,0.0,2,1763904|2025925
+"""adıyamanın merkezine km uzaklıktadır"",",faiss,59.86,0.0,0,
+"""kastamonu iline km taşköprü ilçesine km uzaklıktadır"",",faiss,56.13,0.0,5,385952|792563|789300|384923|793727
+"""kitapları almanyada droemer knaur ve norveç te yayınlanmıştır"",",faiss,65.61,0.0,3,344595|1335359|2011559
+"""efes anlam ayrımı"",",faiss,61.34,0.0,5,1060073|355595|1080463|1962260|1125720
+"""tsuruoka dadachamame adında bir soya türü ile bilinmektedir"",",faiss,57.57,0.0,5,1410724|207819|1252075|305230|727601
+"""bulduk şanlıurfa ilinin eyyübiye ilçesine bağlı bir mahalledir"",",faiss,55.6,0.0,5,389410|1444523|1176078|867956|487828
+"""aligncenter colspan toplam"",",faiss,56.2,0.26,3,1493935|1493943|1565895
+"""küçükaküzüm kars ilinin akyaka ilçesine bağlı bir köydür"",",faiss,61.34,0.0,5,800487|210570|403531|811478|2012408
+"""ufa devlet petrol teknik niversitesi"",",faiss,57.61,0.0,5,388483|1866312|394025|229992|302014
+"""akbel sinop ilinin durağan ilçesine bağlı bir köydür"",",faiss,57.14,0.0,5,767945|210570|1223375|1635741|930431
+"""karabük ankaranın şereflikoçhisar ilçesine bağlı bir mahalledir"",",faiss,66.53,0.0,5,261828|1986954|1669650|881399|1669374
+"""eit sayesinde programlar hakkında elektronik kaynak oluşturulabilmektedir"",",faiss,63.69,0.0,5,1862563|863556|1492613|1496367|592919
+"""aligncenter oy sayısı"",",faiss,55.58,0.0,5,1252705|802478|217973|217981|1396478
+"""çorum iline km iskilip ilçesine km uzaklıktadır"",",faiss,55.92,0.0,5,936672|1748129|1990467|938932|1322687
+"""sakarya il merkezine km kaynarca ilçesine km uzaklıktadır"",",faiss,54.31,0.0,5,656321|792563|656159|384923|793727
+"""islamda insan hakları"",",faiss,57.87,0.0,1,593516
+"""gaon music chart"",",faiss,64.16,0.0,5,1560610|2022596|669071|1096247|1166335
+"""wyomingdeki wind river dağlarından doğan ırmak km uzunluğundadır"",",faiss,58.17,0.0,3,982874|411491|685933
+"""kun gek do"",",faiss,58.45,0.0,1,196643
+"""mahallenin geçmişi hakkında bilgi kula ilçesi kütüklerinde bulunur"",",faiss,63.03,0.0,5,248992|859425|1411808|538981|1071020
+"""big machine records"",",faiss,58.6,0.0,2,1149450|954143
+"""amasya iline km gümüşhacıköy ilçesine km uzaklıktadır"",",faiss,56.0,0.0,5,385952|792563|789300|384923|793727
+"""üretici firma resm sitesi"",",faiss,56.31,0.0,5,955464|1719212|347220|928284|1434687
+"""ftipi konnektor ile cihaz bağlantıları sağlanmaktadır"",",faiss,54.03,0.0,5,1776962|1719053|1711505|1711508|1711509
+"""trabzon iline ilçe merkezine km mesafededir"",",faiss,58.41,0.0,2,1200577|1632106
+"""mzik marc shaiman""",faiss,58.55,0.0,1,749673
+],faiss,65.11,0.0,5,1291975|65071|1582864|1291889|1291900
+[,milvus,1035.9,0.0,5,110273|484001|114892|114901|135829
+"""büyük havza mill parkı"",",milvus,45222.56,0.72,5,331846|1481350|1179976|458186|257723
+"""avrupa basketbol şampiyonası takım arasında luk"",",milvus,86860.88,0.0,5,256202|492050|527764|1651508|330518
+"""richard d jamesin bilinen diskografisi"",",milvus,48045.54,0.0,5,232703|1843716|767621|672954|1885951
+"""aligncenter colspan adaylk"",",milvus,45019.4,0.0,5,338005|1392919|1392920|338009|1723518
+"""en iyi spor programı spor servisi"",",milvus,63087.05,0.0,5,1731652|618758|1681134|1731729|719128
+"""turizm yılında ülke ekonomisine yaklaşık milyon gelir getirmiştir"",",milvus,99756.7,0.0,5,1942337|402050|467098|1251485|1591519
+"""pınarbaşı kayserinin ilçesinden birisidir"",",milvus,49314.1,0.0,5,1158213|1158090|1158132|1703067|1081567
+"""avn ödüllerigrup sekste sahne yıldızı"",",milvus,64444.98,0.0,5,1101231|1675889|1675892|1693493|1802485
+"""şampiyona stadda oynandı"",",milvus,33813.53,0.0,5,1870323|1870325|1870326|1870327|1870329
+"""yazında beşiktaş integral forex ile yıllık sözleşme imzaladı"",",milvus,82472.67,0.0,5,1819264|332385|1802177|620835|1491820
+"""nüfusu insan sayımlarına göre"",",milvus,2731.82,0.0,5,1081704|1245292|872018|812020|1440825
+"""çamköy tokat ilinin almus ilçesine bağlı bir köydür"",",milvus,6620.16,0.0,5,389410|1719053|313909|1135321|575357
+"""sakarya il merkezine km akyazı ilçesine km uzaklıktadır"",",milvus,3590.43,0.0,5,485934|166580|1433718|216502|384923
+"""velma springstead kupası"",",milvus,1945.58,0.0,5,1806754|1441995|684269|855998|549151
+"""ege aşağıdaki anlamlara gelebilir"",",milvus,3519.35,0.0,5,1394116|1394123|326667|1394125|863582
+"""apollonios mö yüzyıl antik yunanistanda yaşamış bir heykeltıraş"",",milvus,6257.76,0.0,5,714368|1598883|1719053|1632111|368693
+"""kocaeli il merkezine km gölcük ilçesine km uzaklıktadır"",",milvus,3693.49,0.0,5,656321|792563|789300|384923|793727
+"""mliqli azerbaycanın yardımlı rayonunda bir köy"",",milvus,5792.85,0.0,5,353258|574635|353260|353262|353276
+"""aligncenter colspan toplam"",",milvus,2282.78,0.0,5,1023714|748209|1182197|1415513|1182205
+"""aligncenter colspan katılım oranı"",",milvus,3060.64,0.0,5,1814721|1742178|1814728|1814735|1814742
+"""kluane wrangellst elias glacier bay tatshenshinialsek"",",milvus,4577.44,0.0,5,1755105|329154|1051148|1557167|1932733
+"""aligncenter colspan geçersiz ya da boş"",",milvus,3160.21,0.0,5,1861856|338004|338005|338008|338009
+"""aligncenter colspan katılım oranı"",",milvus,3350.27,0.0,5,1814721|1742178|1814728|1814735|1814742
+"""aligncenter colspan katılım oranı"",",milvus,3216.89,0.0,5,1814721|1742178|1814728|1814735|1814742
+"""bülent karaköse tunceli karikatürist yazar"",",milvus,3621.3,0.0,5,1167299|1167308|1019929|1167322|1167325
+"""aligncenter colspan adaylk"",",milvus,2828.67,0.0,5,338005|1392919|1392920|338009|1723518
+"""monterey park kaliforniya"",",milvus,2152.87,0.0,5,433953|944905|906733|1057687|670909
+"""final temmuzda saat te yapıldı"",",milvus,3541.87,0.0,5,2011914|671793|817398|491225|491226
+"""meredith yılında vejetaryen yılında ise vegan olmuştur"",",milvus,6941.48,0.0,5,281483|1235084|1505712|965780|2025689
+"""uluslararası sosyal güvenlik teşkilatı"",",milvus,3480.95,0.0,5,637766|571688|571324|514708|571132
+"""coupe de france"",",milvus,1520.87,0.0,5,292906|1448173|489519|892852|1513887
+"""alzey almanyanın renanyapalatina eyaletinde yer alan bir şehirdir"",",milvus,10278.94,0.0,5,1171585|930434|1931524|731428|712860
+"""aligncenter evre oyu"",",milvus,3545.6,0.0,5,1726176|1726156|1726162|1726170|736541
+"""hallaç afyon ilinin şuhut ilçesine bağlı bir köydür"",",milvus,9044.64,0.0,5,975395|963523|767946|1675769|472825
+"""castellammare di stabia komünü şu komünlerle sınır komşusudur"",",milvus,4549.75,0.0,5,952642|540645|605509|330518|1759294
+"""the last tycoon son patron"",",milvus,4324.51,0.0,5,1220483|1943951|412599|1481370|1875965
+"""çıktı gönül arşına"",",milvus,2913.52,0.0,5,184966|782602|1071673|2000380|1784285
+"""ahi evranspor isim değişikliğine giderek kırşehirspor adını aldı"",",milvus,8836.92,0.0,5,308006|1776200|729513|850065|1192789
+"""aligncenter colspan adaylk"",",milvus,3008.64,0.0,5,338005|1392919|1392920|338009|1723518
+"""ağrı iline km doğubayazıt ilçesine km uzaklıktadır"",",milvus,5984.82,0.0,5,385952|792563|789300|384923|793727
+"""türkiye senato seçimleri"",",milvus,2889.67,0.0,5,1611528|718669|324687|135605|100315
+"""vorarlberg eyalet seimleri"",",milvus,2550.2,0.0,5,273472|851905|169926|169927|1910829
+"""ekim genel seçimleri balıkesir ili sonuçları"",",milvus,5682.72,0.0,5,398046|1014865|1357015|1102392|1874174
+"""dırburada kronecker delta dır"",",milvus,3808.69,0.0,5,518212|1922694|317102|886036|1778267
+"""serkan şirin d temmuz ordu türk futbolcudur"",",milvus,4924.82,0.0,5,893637|1823981|251022|1823985|368694
+"""kano pillars fc"",",milvus,1903.94,0.0,5,539842|875273|971759|306419|1682463
+"""tanımlanmış tanınmış alt tür vardır"",",milvus,5795.6,0.0,5,242311|797228|682896|1981303|1877117
+"""seza kutlar aksoy"",",milvus,3464.91,0.0,5,1035685|1035691|1395477|1984666|1081692
+"""kastamonu iline km tosya ilçesine km uzaklıktadır"",",milvus,5619.09,0.0,5,1330405|1322728|789300|384923|793727
+"""manisa iline km gördes ilçesine km uzaklıktadır"",",milvus,4715.43,0.0,5,385952|792563|789300|384923|793727
+"""yılın en başarılı sahne müziği"",",milvus,3775.28,0.0,5,402050|1850313|260462|467090|1998493
+"""sia toplamda drt kez aday oldu"",",milvus,6899.58,0.0,5,1081696|1119429|930438|1119410|1608022
+"""aligncenter oy sayısı"",",milvus,2012.58,0.0,5,1252705|1295076|802478|1295086|1396478
+"""şeyhgüven samsun ilinin çarşamba ilçesine bağlı bir mahalledir"",",milvus,7937.86,0.0,5,800487|1444523|1719053|506671|385206
+"""kızılderililerin nasıl adlandırılması gerektiği hl tartışma konusudur"",",milvus,6123.58,0.0,5,1800384|1982082|1638723|572463|682362
+"""normal kaynama noktası f"",",milvus,3242.59,0.0,5,1941131|189037|597550|1513936|1861274
+"""wir danken dir gott wir danken dir bwv"",",milvus,7755.62,0.0,5,618112|1351464|885609|716296|885679
+"""bademli dikilinin güneybatısında bir mahalledir"",",milvus,5521.29,0.0,5,1073827|1374308|363370|1719053|398580
+"""aligncenter colspan katılım oranı"",",milvus,4083.26,0.0,5,1814721|1742178|1814728|1814735|1814742
+"""yıllara göre mahalle nüfus verileri yılında kişidir"",",milvus,7761.84,0.0,5,789857|790084|717354|1251485|1591519
+"""hd dvd official website"",",milvus,2536.97,0.0,5,1522211|787785|868553|1163218|1940500
+"""işlem tensör büzülmesi için bir toplam ile vurgulaniyor"",",milvus,9831.63,0.0,5,714368|798957|1719053|437135|393464
+"""profesyonel kariyerine yılında yokohama marinos kulübünde başladı"",",milvus,6235.32,0.0,5,1823942|294574|1275887|1253112|1933403
+"""slebiarais bakare slebiarais s slebiarais s"",",milvus,3686.14,0.0,0,
+"""aligncenter oy oran"",",milvus,2349.53,0.0,5,1290661|1290725|1290799|1290678|1290780
+"""binya anlam ayrımı"",",milvus,4194.25,0.0,5,1792008|1334025|1888207|1125720|958045
+"""ntv tarafından yayınlanan programların listesi"",",milvus,5834.29,0.0,5,1281409|1513918|1672564|334262|432478
+"""everybody wants some"",",milvus,2674.23,0.0,5,208264|21384|323602|1011256|1676601
+"""william jackson harper"",",milvus,2309.5,0.0,5,743364|1940132|1822473|534800|557079
+"""kastamonu iline km cide ilçesine km uzaklıktadır"",",milvus,5258.01,0.0,5,385952|792563|789300|384923|793727
+"""yugoslavya uefa afc kıtalararası playoffa yükseldi"",",milvus,5346.04,0.0,5,671718|1518030|165775|459602|671699
+"""southeast european times"",",milvus,2918.41,0.0,5,1791590|173607|1053992|1559506|410109
+"""yılları arası valensiya tayfa emirliği vassalı kalmıştır"",",milvus,7496.23,0.0,5,1324261|256202|229755|1260187|1680991
+"""fizyolojitıp nobel ödülü sayfası"",",milvus,3935.89,0.0,5,2025925|905320|314133|1973497|1852093
+"""adıyamanın merkezine km uzaklıktadır"",",milvus,2990.77,0.26,5,663266|251274|663473|663250|663199
+"""kastamonu iline km taşköprü ilçesine km uzaklıktadır"",",milvus,5524.89,0.0,5,385952|792563|789300|384923|793727
+"""kitapları almanyada droemer knaur ve norveç te yayınlanmıştır"",",milvus,5987.71,0.0,5,2011559|344594|344595|1439858|1335359
+"""efes anlam ayrımı"",",milvus,4766.19,0.0,5,662081|355595|1080463|1962260|1125720
+"""tsuruoka dadachamame adında bir soya türü ile bilinmektedir"",",milvus,10414.58,0.0,5,207819|1252075|305230|727601|904378
+"""bulduk şanlıurfa ilinin eyyübiye ilçesine bağlı bir mahalledir"",",milvus,8866.73,0.0,5,389410|1444523|1176078|867956|487828
+"""aligncenter colspan toplam"",",milvus,3027.04,0.0,5,1023714|748209|1182197|1415513|1182205
+"""küçükaküzüm kars ilinin akyaka ilçesine bağlı bir köydür"",",milvus,9480.97,0.0,5,800487|506671|811478|2012408|930431
+"""ufa devlet petrol teknik niversitesi"",",milvus,5015.1,0.0,5,391968|388483|1866312|229992|229994
+"""akbel sinop ilinin durağan ilçesine bağlı bir köydür"",",milvus,9690.1,0.0,5,800487|767945|2024366|1223375|930431
+"""karabük ankaranın şereflikoçhisar ilçesine bağlı bir mahalledir"",",milvus,8285.71,0.0,5,261828|1986954|1669650|881399|1669374
+"""eit sayesinde programlar hakkında elektronik kaynak oluşturulabilmektedir"",",milvus,7626.31,0.0,5,1487648|863556|1843717|1492613|1676916
+"""aligncenter oy sayısı"",",milvus,2575.91,0.0,5,1252705|1295076|802478|1295086|1396478
+"""çorum iline km iskilip ilçesine km uzaklıktadır"",",milvus,5467.08,0.0,5,936672|1748129|1990467|938932|1322687
+"""sakarya il merkezine km kaynarca ilçesine km uzaklıktadır"",",milvus,4955.55,0.0,5,656321|792563|656159|384923|793727
+"""islamda insan hakları"",",milvus,3635.18,0.0,5,1730247|593516|1357336|297273|297563
+"""gaon music chart"",",milvus,2817.54,0.0,5,748132|1396326|1528189|326512|562333
+"""wyomingdeki wind river dağlarından doğan ırmak km uzunluğundadır"",",milvus,6671.69,0.0,5,1283041|1216012|685933|830958|848671
+"""kun gek do"",",milvus,1812.52,0.0,5,793476|593935|1840626|592888|623389
+"""mahallenin geçmişi hakkında bilgi kula ilçesi kütüklerinde bulunur"",",milvus,8223.42,0.0,5,248992|859425|1411808|538981|1071020
+"""big machine records"",",milvus,2876.87,0.0,5,209799|1803311|1494610|387442|1734107
+"""amasya iline km gümüşhacıköy ilçesine km uzaklıktadır"",",milvus,6044.9,0.0,5,385952|792563|789300|384923|793727
+"""üretici firma resm sitesi"",",milvus,3917.29,0.0,5,955464|1719212|347220|928284|1434687
+"""ftipi konnektor ile cihaz bağlantıları sağlanmaktadır"",",milvus,6901.69,0.0,5,1719053|1711503|1711505|1711508|1711509
+"""trabzon iline ilçe merkezine km mesafededir"",",milvus,5493.69,0.0,5,1632106|1632107|1632108|1632109|1632110
+"""mzik marc shaiman""",milvus,2738.65,0.0,5,244835|894886|1087720|754447|740722
+],milvus,80.29,0.0,5,1291975|65071|1582864|1291889|1291900
+[,qdrant,11.76,0.0,5,2014048|145696|145728|122357|128154
+"""büyük havza mill parkı"",",qdrant,4497.19,0.72,0,
+"""avrupa basketbol şampiyonası takım arasında luk"",",qdrant,1717.45,0.0,0,
+"""richard d jamesin bilinen diskografisi"",",qdrant,1826.54,0.0,0,
+"""aligncenter colspan adaylk"",",qdrant,1699.64,0.0,0,
+"""en iyi spor programı spor servisi"",",qdrant,2001.54,0.0,0,
+"""turizm yılında ülke ekonomisine yaklaşık milyon gelir getirmiştir"",",qdrant,1867.16,0.0,0,
+"""pınarbaşı kayserinin ilçesinden birisidir"",",qdrant,1939.03,0.0,0,
+"""avn ödüllerigrup sekste sahne yıldızı"",",qdrant,1846.02,0.0,0,
+"""şampiyona stadda oynandı"",",qdrant,2135.3,0.0,0,
+"""yazında beşiktaş integral forex ile yıllık sözleşme imzaladı"",",qdrant,1925.48,0.0,0,
+"""nüfusu insan sayımlarına göre"",",qdrant,2077.12,0.0,5,619684|276196|619688|619701|619672
+"""çamköy tokat ilinin almus ilçesine bağlı bir köydür"",",qdrant,2134.39,0.0,0,
+"""sakarya il merkezine km akyazı ilçesine km uzaklıktadır"",",qdrant,2204.88,0.0,0,
+"""velma springstead kupası"",",qdrant,2165.76,0.0,0,
+"""ege aşağıdaki anlamlara gelebilir"",",qdrant,2301.8,0.0,1,601375
+"""apollonios mö yüzyıl antik yunanistanda yaşamış bir heykeltıraş"",",qdrant,2147.11,0.0,0,
+"""kocaeli il merkezine km gölcük ilçesine km uzaklıktadır"",",qdrant,2320.38,0.0,0,
+"""mliqli azerbaycanın yardımlı rayonunda bir köy"",",qdrant,2243.42,0.0,0,
+"""aligncenter colspan toplam"",",qdrant,2465.55,0.0,0,
+"""aligncenter colspan katılım oranı"",",qdrant,2355.09,0.0,0,
+"""kluane wrangellst elias glacier bay tatshenshinialsek"",",qdrant,2266.78,0.0,0,
+"""aligncenter colspan geçersiz ya da boş"",",qdrant,2428.1,0.0,0,
+"""aligncenter colspan katılım oranı"",",qdrant,2492.06,0.0,0,
+"""aligncenter colspan katılım oranı"",",qdrant,2497.29,0.0,0,
+"""bülent karaköse tunceli karikatürist yazar"",",qdrant,2573.8,0.0,0,
+"""aligncenter colspan adaylk"",",qdrant,2358.85,0.0,0,
+"""monterey park kaliforniya"",",qdrant,2507.33,0.0,0,
+"""final temmuzda saat te yapıldı"",",qdrant,2531.22,0.0,0,
+"""meredith yılında vejetaryen yılında ise vegan olmuştur"",",qdrant,2542.03,0.0,0,
+"""uluslararası sosyal güvenlik teşkilatı"",",qdrant,2557.37,0.0,0,
+"""coupe de france"",",qdrant,2573.69,0.0,0,
+"""alzey almanyanın renanyapalatina eyaletinde yer alan bir şehirdir"",",qdrant,2498.31,0.0,0,
+"""aligncenter evre oyu"",",qdrant,2584.85,0.0,0,
+"""hallaç afyon ilinin şuhut ilçesine bağlı bir köydür"",",qdrant,2690.31,0.0,0,
+"""castellammare di stabia komünü şu komünlerle sınır komşusudur"",",qdrant,2719.73,0.0,0,
+"""the last tycoon son patron"",",qdrant,2711.8,0.0,0,
+"""çıktı gönül arşına"",",qdrant,2898.64,0.0,0,
+"""ahi evranspor isim değişikliğine giderek kırşehirspor adını aldı"",",qdrant,3070.08,0.0,0,
+"""aligncenter colspan adaylk"",",qdrant,2807.69,0.0,0,
+"""ağrı iline km doğubayazıt ilçesine km uzaklıktadır"",",qdrant,2925.09,0.0,0,
+"""türkiye senato seçimleri"",",qdrant,2914.66,0.0,0,
+"""vorarlberg eyalet seimleri"",",qdrant,2732.45,0.0,0,
+"""ekim genel seçimleri balıkesir ili sonuçları"",",qdrant,2742.65,0.0,0,
+"""dırburada kronecker delta dır"",",qdrant,2655.68,0.0,0,
+"""serkan şirin d temmuz ordu türk futbolcudur"",",qdrant,2890.1,0.0,0,
+"""kano pillars fc"",",qdrant,3086.37,0.0,0,
+"""tanımlanmış tanınmış alt tür vardır"",",qdrant,2991.67,0.0,0,
+"""seza kutlar aksoy"",",qdrant,2825.64,0.0,0,
+"""kastamonu iline km tosya ilçesine km uzaklıktadır"",",qdrant,2709.3,0.0,0,
+"""manisa iline km gördes ilçesine km uzaklıktadır"",",qdrant,2896.55,0.0,0,
+"""yılın en başarılı sahne müziği"",",qdrant,3129.6,0.0,5,634286|252433|1209203|1789300|240732
+"""sia toplamda drt kez aday oldu"",",qdrant,2936.72,0.0,0,
+"""aligncenter oy sayısı"",",qdrant,3014.18,0.0,0,
+"""şeyhgüven samsun ilinin çarşamba ilçesine bağlı bir mahalledir"",",qdrant,2943.88,0.0,0,
+"""kızılderililerin nasıl adlandırılması gerektiği hl tartışma konusudur"",",qdrant,3234.63,0.0,0,
+"""normal kaynama noktası f"",",qdrant,3134.37,0.0,2,863297|1435343
+"""wir danken dir gott wir danken dir bwv"",",qdrant,2880.41,0.0,0,
+"""bademli dikilinin güneybatısında bir mahalledir"",",qdrant,3191.7,0.0,0,
+"""aligncenter colspan katılım oranı"",",qdrant,3026.94,0.0,0,
+"""yıllara göre mahalle nüfus verileri yılında kişidir"",",qdrant,3072.58,0.0,0,
+"""hd dvd official website"",",qdrant,3185.56,0.0,0,
+"""işlem tensör büzülmesi için bir toplam ile vurgulaniyor"",",qdrant,2971.15,0.0,0,
+"""profesyonel kariyerine yılında yokohama marinos kulübünde başladı"",",qdrant,2945.61,0.0,0,
+"""slebiarais bakare slebiarais s slebiarais s"",",qdrant,3277.08,0.0,0,
+"""aligncenter oy oran"",",qdrant,3133.42,0.0,0,
+"""binya anlam ayrımı"",",qdrant,3069.76,0.0,0,
+"""ntv tarafından yayınlanan programların listesi"",",qdrant,3255.9,0.0,0,
+"""everybody wants some"",",qdrant,3360.61,0.0,0,
+"""william jackson harper"",",qdrant,3081.22,0.0,0,
+"""kastamonu iline km cide ilçesine km uzaklıktadır"",",qdrant,3077.71,0.0,0,
+"""yugoslavya uefa afc kıtalararası playoffa yükseldi"",",qdrant,3145.07,0.0,0,
+"""southeast european times"",",qdrant,3382.17,0.0,0,
+"""yılları arası valensiya tayfa emirliği vassalı kalmıştır"",",qdrant,3117.09,0.0,0,
+"""fizyolojitıp nobel ödülü sayfası"",",qdrant,3281.6,0.0,0,
+"""adıyamanın merkezine km uzaklıktadır"",",qdrant,3321.74,0.0,0,
+"""kastamonu iline km taşköprü ilçesine km uzaklıktadır"",",qdrant,3047.88,0.0,0,
+"""kitapları almanyada droemer knaur ve norveç te yayınlanmıştır"",",qdrant,3379.54,0.0,0,
+"""efes anlam ayrımı"",",qdrant,3493.54,0.0,2,506090|1066510
+"""tsuruoka dadachamame adında bir soya türü ile bilinmektedir"",",qdrant,3355.05,0.0,0,
+"""bulduk şanlıurfa ilinin eyyübiye ilçesine bağlı bir mahalledir"",",qdrant,3435.55,0.0,0,
+"""aligncenter colspan toplam"",",qdrant,3196.4,0.0,0,
+"""küçükaküzüm kars ilinin akyaka ilçesine bağlı bir köydür"",",qdrant,3239.8,0.0,0,
+"""ufa devlet petrol teknik niversitesi"",",qdrant,3475.55,0.0,0,
+"""akbel sinop ilinin durağan ilçesine bağlı bir köydür"",",qdrant,3434.48,0.0,0,
+"""karabük ankaranın şereflikoçhisar ilçesine bağlı bir mahalledir"",",qdrant,3033.97,0.0,0,
+"""eit sayesinde programlar hakkında elektronik kaynak oluşturulabilmektedir"",",qdrant,3319.33,0.0,0,
+"""aligncenter oy sayısı"",",qdrant,3331.16,0.0,0,
+"""çorum iline km iskilip ilçesine km uzaklıktadır"",",qdrant,3478.16,0.0,0,
+"""sakarya il merkezine km kaynarca ilçesine km uzaklıktadır"",",qdrant,3380.44,0.0,0,
+"""islamda insan hakları"",",qdrant,3384.29,0.0,0,
+"""gaon music chart"",",qdrant,3332.15,0.0,0,
+"""wyomingdeki wind river dağlarından doğan ırmak km uzunluğundadır"",",qdrant,3292.39,0.0,0,
+"""kun gek do"",",qdrant,3426.7,0.0,5,810057|810058|1650156|1500024|1278906
+"""mahallenin geçmişi hakkında bilgi kula ilçesi kütüklerinde bulunur"",",qdrant,3608.23,0.0,0,
+"""big machine records"",",qdrant,3543.6,0.0,0,
+"""amasya iline km gümüşhacıköy ilçesine km uzaklıktadır"",",qdrant,3479.98,0.0,0,
+"""üretici firma resm sitesi"",",qdrant,3564.07,0.0,0,
+"""ftipi konnektor ile cihaz bağlantıları sağlanmaktadır"",",qdrant,3555.24,0.0,0,
+"""trabzon iline ilçe merkezine km mesafededir"",",qdrant,3283.84,0.0,0,
+"""mzik marc shaiman""",qdrant,3338.86,0.0,0,
+],qdrant,9.07,0.0,5,40897|65071|83285|93240|41051
