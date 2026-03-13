@@ -5,9 +5,9 @@ This repository presents a benchmarking framework for evaluating vector database
 The project focuses on generating text embeddings on an edge device and comparing the performance of different vector database systems under the same experimental conditions.
 
 The benchmark evaluates the following vector search systems:
-	•	FAISS
-	•	Milvus
-	•	Qdrant
+•	FAISS
+•	Milvus
+•	Qdrant
 
 All systems are tested using the same embedding dataset and the same query set to ensure fair comparison.
 
@@ -30,11 +30,11 @@ This project aims to experimentally evaluate these systems using the same datase
 ## System Overview
 
 The experimental pipeline used in this project consists of the following stages:
-	1.	Text corpus preparation
-	2.	Embedding generation using a TinyBERT-based model
-	3.	Optimization and inference using TensorRT
-	4.	Storage of embedding vectors in vector databases
-	5.	Similarity search benchmarking
+1.	Text corpus preparation
+2.	Embedding generation using a TinyBERT-based model
+3.	Optimization and inference using TensorRT
+4.	Storage of embedding vectors in vector databases
+5.	Similarity search benchmarking
 
 The embedding generation process was executed on an NVIDIA Jetson Nano device using a TensorRT optimized model.
 
@@ -59,16 +59,16 @@ Embeddings can be regenerated using the scripts provided in the embedding/ direc
 All vector database systems were evaluated under the same experimental setup.
 
 The following steps were applied:
-	1.	Load the embedding vectors
-	2.	Insert embeddings into the vector database
-	3.	Execute similarity search queries
-	4.	Measure performance metrics
+1.	Load the embedding vectors
+2.	Insert embeddings into the vector database
+3.	Execute similarity search queries
+4.	Measure performance metrics
 
 The benchmark focuses on the following metrics:
-	•	Query latency
-	•	Memory usage (RAM)
-	•	Result overlap between systems
-	•	Consensus similarity results
+•	Query latency
+•	Memory usage (RAM)
+•	Result overlap between systems
+•	Consensus similarity results
 
 These metrics provide insight into both the efficiency and behavior of different vector database implementations.
 
@@ -79,25 +79,25 @@ These metrics provide insight into both the efficiency and behavior of different
 Benchmark results and visualizations are provided in the plots/ directory.
 
 The results include:
-	•	Average query latency
-	•	P95 latency
-	•	Peak RAM usage
-	•	Result overlap between systems
-	•	Consensus similarity comparisons
+•	Average query latency
+•	P95 latency
+•	Peak RAM usage
+•	Result overlap between systems
+•	Consensus similarity comparisons
 
 These results allow a direct comparison of vector search performance across different systems.
 
 ⸻
 
 ## Technologies Used
-	•	Python
-	•	TinyBERT
-	•	TensorRT
-	•	CUDA
-	•	FAISS
-	•	Milvus
-	•	Qdrant
-	•	NumPy
+•	Python
+•	TinyBERT
+•	TensorRT
+•	CUDA
+•	FAISS
+•	Milvus
+•	Qdrant
+•	NumPy
 
 ⸻
 
